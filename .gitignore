@@ -1,0 +1,24 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+client_secret*.json
+
+# n8n local state and execution data
+.n8n/
+execution-data/
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
