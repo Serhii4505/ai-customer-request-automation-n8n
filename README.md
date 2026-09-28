@@ -105,3 +105,8 @@ Create these columns in the `Requests` sheet:
 
 This project demonstrates workflow design, validation, duplicate handling, structured LLM output, Google Workspace integration, status tracking, and graceful error paths. It is a portfolio/demo implementation and should be reviewed and hardened for a specific production environment.
 
+## Copyright and Usage
+
+Copyright © 2026 Sergey. All rights reserved.
+
+This repository is provided for portfolio review only. Reuse, redistribution, modification, publication, or commercial use is not permitted without the copyright holder's prior written permission. No open-source license is granted.
